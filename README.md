@@ -5,7 +5,7 @@
 
 ### Here are some of my hobbies:
 
-- ###  I like playing games 
-- ###  I like shooting guns
-- ###  I like watching Netflix
-- ###  I like chemistry 
+* ### I like playing games 
+* ###  I like shooting guns
+* ###  I like watching Netflix
+* ###  I like chemistry 
