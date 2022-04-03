@@ -6,6 +6,6 @@
 ### Here are some of my hobbies:
 
 * ### I like playing games 
-* ###  I like shooting guns
+* ###  I like watching videos
 * ###  I like watching Netflix
 * ###  I like chemistry 
